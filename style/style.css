@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    overflow: hidden;
+    padding: 0px;
+}
+
+#paperCanvas{
+    position: fixed;
+    width: 50%;
+    height: 100%;
+}
+
+#webGL{
+    left: 50%;
+    position: fixed;
+    width: 50%;
+    height: 100%;
+}
